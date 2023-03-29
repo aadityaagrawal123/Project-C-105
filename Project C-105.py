@@ -1,7 +1,7 @@
 import os
 import cv2
 
-path = "C:/Users/Dell/Desktop/C-104/Project C-105/PRO-C105-Project-Images-main/Images"
+path = "C:/Users/Dell/Desktop/C-104/Project C-105/Images"
 
 images = []
 
